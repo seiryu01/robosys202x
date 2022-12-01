@@ -2,7 +2,7 @@
 
 [![test](https://github.com/seiryu01/robosys202x/actions/workflows/test.yml/badge.svg)](https://github.com/seiryu01/robosys202x/actions/workflows/test.yml)
 
-##コマンドの説明
+## コマンドの説明
 * plus
  入力から読み込んだ値の合計を出力します。
 
